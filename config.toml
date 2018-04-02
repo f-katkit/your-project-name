@@ -1,0 +1,19 @@
+languageCode = "ja"
+title = "sample diary"
+theme = 'hestia-pure'
+appendPort = false
+
+[author]
+ author = 'Your Name'
+ profile = 'Your Profile info'
+ image = 'image/theme/profile.jpg'
+
+[Params]
+ localeOgp = "ja"
+ description = "This site is my blog."
+ keywords = "Mac,iPhone,Web"
+ twitter = "twitter"
+ github = "github"
+ facebook = "facebook"
+ googleanalytics = "xxxxxxxxxxx"
+ googlecustomsearch = "xxxxxxxxx"
